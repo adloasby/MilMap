@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [151.2, -33.86], [151.22, -33.86], [151.22, -33.88], [151.2, -33.88], [151.2, -33.86]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sydney UXO Survey",
+        "year": "2023",
+        "description": "Geophysical survey for UXO detection."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [144.96, -37.81], [144.98, -37.81], [144.98, -37.83], [144.96, -37.83], [144.96, -37.81]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Melbourne Site Assessment",
+        "year": "2022",
+        "description": "Environmental and UXO assessment."
+      }
+    }
+  ]
+}
